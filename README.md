@@ -489,9 +489,7 @@ python test_installation.py
 
 - **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Technical discussions on GitHub Discussions
-- **Email**: contact@example.com
-- **Documentation**: https://docs.example.com
-
+- **Email**: anticsurf@outlook.com
 ---
 
 ## Disclaimer
